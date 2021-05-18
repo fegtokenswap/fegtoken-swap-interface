@@ -1,0 +1,21 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "FEGtoken ",
+      "symbol": "FEG",
+      "address": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+      "chainId": 56,
+      "decimals": 9
+    }
+  ]
+}
